@@ -7,3 +7,5 @@ JavaScript, HTML e CSS: As tecnologias padrão da web foram utilizadas para cria
 Responsividade: O design da calculadora é responsivo, ajustando-se dinamicamente ao tamanho da tela, proporcionando uma experiência otimizada em dispositivos como desktops, tablets e smartphones.
 
 Diversos Métodos de JavaScript: O código JavaScript utiliza vários métodos e funções para realizar as operações matemáticas de maneira eficiente e precisa.
+
+Link do app : https://calculadora-six-navy.vercel.app/
